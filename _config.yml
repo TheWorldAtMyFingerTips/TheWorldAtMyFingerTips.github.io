@@ -2,8 +2,7 @@ title: My Data Analytics Projects Portfolio # your name (or website title) here
 logo: "/images/just_me.jfif" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Simplifying the world, one dataset at a time.
-  
-  <br><br>
+ 
   <a href="https://www.linkedin.com/in/megan-ng-7708a74/">My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
