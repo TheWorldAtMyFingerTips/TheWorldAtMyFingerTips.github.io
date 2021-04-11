@@ -1,4 +1,4 @@
-## My Data Analytics Projects Portfolio
+## My Projects Portfolio
 
 ---
 
