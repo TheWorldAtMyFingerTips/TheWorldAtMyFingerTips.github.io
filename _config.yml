@@ -2,9 +2,11 @@ title: "Hello World!" # your name (or website title) here
 logo: "/images/just_me_circled.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi there!
-  <br>
-  I'm Megan, a Data Analytics enthusiast. Prior to this, I had lived and breathed Retail Merchandising. While the bulk of my career was categorized as "merchandising", I find myself immensely drawn and fulfilled by the analytics part of merchandising. I'm fueled by using data to simplify complexities into actionable insights. One thing led to another and now, I am currently pursuing an Associate Data Analyst course with NTUC LearningHub, enjoying Data Science modules of Python, PowerBI, SQL, and Excel.
-  <br>
+  <br><br>
+  I'm Megan, a Data Analytics enthusiast.
+  <br><br>
+  Prior to this, I had lived and breathed Retail Merchandising. While the bulk of my career was categorized as "merchandising", I find myself immensely drawn and fulfilled by the analytics part of merchandising. I'm fueled by using data to simplify complexities into actionable insights. One thing led to another and now, I am currently pursuing an Associate Data Analyst course with NTUC LearningHub, enjoying Data Science modules of Python, PowerBI, SQL, and Excel.
+  <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
