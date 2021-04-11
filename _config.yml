@@ -1,5 +1,5 @@
 title: My Data Analytics Projects Portfolio # your name (or website title) here
-logo: "https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/just_me.jfif"
+logo: "/images/just_me.jfif"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Simplifying the "world", one dataset a time.
   <br><br>
