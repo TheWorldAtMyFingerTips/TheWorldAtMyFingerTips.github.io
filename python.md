@@ -83,5 +83,6 @@ I am more than pleased.<br/>
 
 ### Contact me
 
-**LinkedIn:** [https://www.linkedin.com/in/megan-ng-7708a74/](https://www.linkedin.com/in/megan-ng-7708a74/)<br/>
-**Email:** megan_ng@hotmail.com
+LinkedIn | https://www.linkedin.com/in/megan-ng-7708a74/(https://www.linkedin.com/in/megan-ng-7708a74/)
+Email | megan_ng@hotmail.com
+
