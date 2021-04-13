@@ -8,7 +8,8 @@ Power BI is an application which allows users to get started quickly by unifying
 
 This Capstone Project was designed to jog our cognitive process, reinforce and apply our knowledge to "real-life" cases so as to solidify our learnings. We were graded on our ability to showcase and exhibit the five stages of the data lifecycle through the use of Power BI (data collection, creating tables and loading data into Power BI databases, data preparation, data analysis using Power BI, creating visualizations and interactive dashboards, communication of the case study to stakeholders).
 
-# [Capstone Project 3: Global Superstore (Retail)](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/Global%20Superstore%20(Retail).pbix)
+# Capstone Project 3: Global Superstore
+[Click to download my PowerPoint presentation] (Retail)(files/powerbi/Capstone Project 3 - Power BI (Global Superstore).pptx)
 
 ### Abstract
 > "A picture is worth a thousand words." - Henrik Ibsen
@@ -63,11 +64,11 @@ After knowing which regions to focus on, the next dashboard answers the **WHEN**
 
 The next dashboard answers questions of the **WHAT** - whereby users can, at a glance, see each categories' corresponding gross profit % mix, gross profit, sales % mix, gross sales, quantity % mix, quantity, average discount, and average retail. Users can also drill further into the sub-categories and product names - simply by clicking on the fork (located at the top of the visual).
 
-<img src="images/powerbi/Power BI Global Superstore -Whatgif.gif">
+<img src="images/powerbi/Power-BI-Whatgif.gif">
 
 Next dashboard dwells into the **WHO** - the customers. Users can view which customers are the top (and bottom) by gross profit % mix, gross profit, sales % mix, gross sales, quantity % mix, quantity, average discount, and average retail.
 
-<img src="images/powerbi/Power BI Global Superstore - Who.gif">
+<img src="images/powerbi/Power BI - Who.gif">
 
 The last 2 dashboards are somewhat like guides as to **HOW** to make the best use out of the forementioned dashboards (of overview, where, when, what, who) by raising attention to the **WHY**. The dashboards are designed to be self-explanatory, as follows:
 
@@ -78,16 +79,10 @@ The last 2 dashboards are somewhat like guides as to **HOW** to make the best us
 
 
 ### Results
-And here is the final product - [My first Power BI Dashboard](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/Global%20Superstore%20(Retail).pbix)
+And here is the final product - [Click to download my Power BI Dashboard](files/powerbi/Global Superstore (Retail).pbix
+)
 
-<img src="images/powerbi/PowerBI-gif-gif">
-
-
-Scoring rubrics contain components of:
-* Report (5 points)
-* Data Wrangling (5 points)
-* Storytelling (5 points)
-* Communication (5 points)
+<img src="images/powerbi/PowerBI-gif.gif">
 
 I presented this to the Boss and various Heads of Sales, from a standpoint of training them how to use it.
 
@@ -96,11 +91,17 @@ The Heads of Sales are happy.
 **I aced the project.**
 I am happy.
 
+Scoring rubrics contain components of:
+* Report (5 points)
+* Data Wrangling (5 points)
+* Storytelling (5 points)
+* Communication (5 points)
+
+I scored 19 out of 20.
 
 <img src="images/powerbi/Capstone Project 3 - Scoring Rubrics.JPG">
 
 ### Contact Me
-Contact Platform | Contact Address
----------------- | ------------------
+
 LinkedIn | https://www.linkedin.com/in/megan-ng-7708a74/
 Email | megan_ng@hotmail.com
