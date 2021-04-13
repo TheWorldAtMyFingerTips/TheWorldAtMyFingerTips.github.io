@@ -46,6 +46,8 @@ I am happy.
 <br/>
 
 ### Project Scoring Rubrics
+We were rated on the areas of communication, data, storytelling, and design (5 points each).
+My score was a 19/20.
 
 <img src="images/Capstone Project 1 - Scoring Rubrics.jpg"/>
 <br/>
