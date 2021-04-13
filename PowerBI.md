@@ -106,5 +106,6 @@ I am happy.<br/><br/>
 
 ### Contact Me
 
-LinkedIn | https://www.linkedin.com/in/megan-ng-7708a74/
+LinkedIn | https://www.linkedin.com/in/megan-ng-7708a74/(https://www.linkedin.com/in/megan-ng-7708a74/)
 Email | megan_ng@hotmail.com
+
