@@ -33,15 +33,17 @@ Finally, I thought about the theme of the Dashboard. My considerations include:
 
 
 ### Results
-And here is the final product - [My first Excel Interactive Dashboard.](/files/U.S. Superstore (Retail)).xlsx)
+And here is the final product - [My Excel Interactive Dashboard.](files/U.S. Superstore (Retail).xlsx)
 
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/Excel/images/Excel-Dashboard.gif)
 
 I presented this to the boss, from a standpoint of training him how to use it.</br>
 
-The boss is happy.</br>
-**I aced the project.**</br>
-I am happy.</br>
+The boss is happy.
+
+**I aced the project.**
+
+I am happy.
 
 ###### Capstone Project 1: Interactive Excel Dashboard Scoring Rubrics
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/Excel/images/Capstone%20Project%201%20-%20Scoring%20Rubrics.jpg)
