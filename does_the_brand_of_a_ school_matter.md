@@ -42,5 +42,6 @@ Make the effort. Take action.<br/><br/>
 **WE ARE THE POWER OF HOW POWERFUL WE BECOME.<br/>
 WHAT EXPONENTIAL DID YOU CHOOSE FOR YOURSELF TODAY?**<br/>
 <br/><br/>
+<img src="my_articles/images/Telling my story to empower.jpg">
 
 #BetterThanYesterday
