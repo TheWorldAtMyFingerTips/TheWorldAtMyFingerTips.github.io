@@ -7,14 +7,18 @@ This project is based off the context that my boss (my target audience) wants a 
 
 The dashboard will allow him to dynamically extract the relevant KPIs while speaking to each Head of Sales to get deeper insights as to why the metrics is so, with the ultimate objective of driving sales growth.
 
-<img src="images/Excel-Dashboard.gif"/>
+[PowerBI - Global Superstore (Retail)]
+<img src="images/PowerBI-gif.gif"/>
 
 ---
+
+
+
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[PowerBI - Global Superstore (Retail)](/pdf/sample_presentation.pdf)
+[Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [Building Machine Learning Models using Python: Instagram Top Posts](https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/python/2021.03.05%20-%20CAPSTONE%20PROJECT%204%20PRESENTATION.pptx)
