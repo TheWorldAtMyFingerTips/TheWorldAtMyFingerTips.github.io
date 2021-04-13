@@ -11,11 +11,9 @@ The dashboard will allow him to dynamically extract the relevant KPIs while spea
 
 ---
 ### [PowerBI - Global Superstore (Retail)](/PowerBI.md)
-`"A picture is worth a thousand words." - Henrik Ibsen`
+This project is based off the context that my boss wants an "app-like experience" in PowerBI, with dashboards which not only enable the overview of business, but also inspires actionable insights, with the ultimate objective of driving sales growth. It provides actionable angles of the overview, where, when, what, who, why, and hows.
 
-Likewise for data, good visualizations increase the willingness to read, makes it easier for readers to recognise patterns and find exceptions while interpreting the data at a faster pace to intuitively understand the story of the dataset, and derive inspirations for action.
-
-This project is based off the context that my boss wants an "app-like experience" in PowerBI, with dashboards which not only enable the overview of business, but also inspires actionable insights, with the ultimate objective of driving sales growth. It provides actionable angles of the overview, where, when, what, who, why, and hows. The dashboard will be used by my boss and the various Head of Sales (whose responsibilities are segregated by region).
+The dashboard will be used by my boss and the various Sales Heads (whose responsibilities are segregated by region).
 
 <img src="images/PowerBI-gif.gif"/>
 
