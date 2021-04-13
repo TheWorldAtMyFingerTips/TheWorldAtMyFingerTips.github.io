@@ -2,7 +2,7 @@
 
 ---
 
-### [Interactive Excel Dashboard: Sample Superstore (Retail)](/Excel_Dashboard.md)
+### [Excel Interactive Dashboard: Sample Superstore (Retail)](/Excel_Dashboard.md)
 <img src="images/Excel-Dashboard.gif"/>
 
 ---
