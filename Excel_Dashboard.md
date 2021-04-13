@@ -59,11 +59,8 @@ And here is the final product - [Click here to download my Excel Interactive Das
 I presented this to the boss, from a standpoint of training him how to use it.
 
 The boss is happy.  
-
 **I aced the project.**  
-
 I am happy.  
-
 <br/>
 
 ### Project Scoring Rubrics
