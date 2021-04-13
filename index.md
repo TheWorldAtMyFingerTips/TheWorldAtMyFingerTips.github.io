@@ -2,9 +2,10 @@
 
 ---
 
-### Interactive Excel Dashboard: Sample Superstore (Retail)
+### [Interactive Excel Dashboard: Sample Superstore (Retail)](/Excel_Dashboard.md)
 
 [Project Background](/Excel_Dashboard.md)
+[Download my Excel Interactive Dashboard](files/U.S. Superstore (Retail).xlsx)
 <img src="images/Excel-Dashboard.gif"/>
 
 ---
