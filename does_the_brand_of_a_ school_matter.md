@@ -5,7 +5,7 @@ All of us have been there.<br/><br/>
 Society's eternal debate of - _Does the brand/rank of a school matter?_ <br/><br/>
 In a similar vein, I've been having internal debates of which is better: Full-time diploma with a polytechnic or, full-time certified trainings with a course provider.<br/>
 
-Truth is, though I've went to somewhat prestigious primary, secondary, and university schools... excelled in my studies, places of work, and (now) course projects... I still feel "insufficient".<br/>
+Truth is, though I've went to somewhat prestigious primary, secondary, and university schools... excelled in my studies, places of work, and (now) course projects... I still feel "insufficient".<br/><br/>
 The most pressing thorn at the moment being, feeling inferior to a full-time diploma Data Analytics grad (I am a full-time Associate Data Analyst student with NTUCLearningHub and Xaltius).<br/>
 
 And so... in a bid to remove that thorn, I've taken to research (via the internet, books, speaking with people), to derive peace and confidence from the following points:<br/>
