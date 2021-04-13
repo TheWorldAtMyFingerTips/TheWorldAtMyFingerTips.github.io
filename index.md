@@ -25,6 +25,7 @@ In today's society, smartphones have become ubiquitious and an essential tool fo
 
 This project is based off the context that the boss wants to better understand Instagram's algorithm and, from a user-standpoint - find out which are the "super" variables to focus his efforts on, in the trajectory to making Instagram top posts.
 
+<img src="images/python/What is an Insta Top Post.png">
 ---
 
 
