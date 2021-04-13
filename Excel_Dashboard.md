@@ -73,7 +73,6 @@ We were rated on the areas of communication, data, storytelling, and design (5 p
 
 ### Contact Me
 
-**LinkedIn:** https://www.linkedin.com/in/megan-ng-7708a74/
-<br/>
-**Email:** megan_ng@hotmail.com
+LinkedIn | https://www.linkedin.com/in/megan-ng-7708a74/
+Email | megan_ng@hotmail.com
 
