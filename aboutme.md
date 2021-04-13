@@ -6,8 +6,9 @@ I'm Megan, a Data Analytics enthusiast. Prior to this, I had lived and breathed 
 
 One thing led to another and now, I am currently pursuing an Associate Data Analyst course with NTUC LearningHub, enjoying Data Science modules of Python, PowerBI, SQL, and Excel!
 <br/><br/>
+
 ### Contact me
 <br/>
-LinkedIn | https://www.linkedin.com/in/megan-ng-7708a74/(https://www.linkedin.com/in/megan-ng-7708a74/)
+LinkedIn | [https://www.linkedin.com/in/megan-ng-7708a74/](https://www.linkedin.com/in/megan-ng-7708a74/)
 Email | megan_ng@hotmail.com
 <br/><br/>
