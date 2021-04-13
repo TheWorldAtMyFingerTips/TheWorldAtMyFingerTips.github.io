@@ -33,7 +33,7 @@ Finally, I thought about the theme of the Dashboard. My considerations include:
 \
 \
 ### Results
-And here is the final product - [My Excel Interactive Dashboard.](files/U.S. Superstore (Retail).xlsx)
+And here is the final product - [Download my Excel Interactive Dashboard.](files/U.S. Superstore (Retail).xlsx)
 
 [](/images/Excel-Dashboard.gif)
 
