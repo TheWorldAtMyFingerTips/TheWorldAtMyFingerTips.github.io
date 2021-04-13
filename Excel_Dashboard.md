@@ -50,8 +50,7 @@ I am happy.
 
 
 ### Contact Me
-Contact Platform | Contact Address
----------------- | ------------------
-LinkedIn | https://www.linkedin.com/in/megan-ng-7708a74/
-Email | megan_ng@hotmail.com
+
+LinkedIn: https://www.linkedin.com/in/megan-ng-7708a74/
+Email: megan_ng@hotmail.com
 
