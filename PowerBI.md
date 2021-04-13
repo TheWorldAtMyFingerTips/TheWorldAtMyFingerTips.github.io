@@ -87,8 +87,11 @@ And here is the final product - [Click here to download my Power BI Dashboard](f
 I presented this to the Boss and various Heads of Sales, from a standpoint of training them how to use it.
 
 The Boss is happy.
+
 The Heads of Sales are happy.
+
 **I aced the project.**
+
 I am happy.
 
 
@@ -99,6 +102,7 @@ Scoring rubrics contain components of:
 * Communication (5 points)
 
 **I scored a 19 out of 20.**
+
 
 <img src="images/powerbi/Capstone Project 3 - Scoring Rubrics.JPG">
 
