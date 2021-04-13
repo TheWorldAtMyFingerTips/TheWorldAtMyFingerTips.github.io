@@ -1,8 +1,8 @@
 ## DOES THE BRAND/RANK OF A SCHOOL MATTER?
 <br/>
 You've been there.<br/>
-All of us have been there.<br/>
-Society's eternal debate of - _Does the brand/rank of a school matter?_ <br/>
+All of us have been there.<br/><br/>
+Society's eternal debate of - _Does the brand/rank of a school matter?_ <br/><br/>
 In a similar vein, I've been having internal debates of which is better - Full-time diploma with a polytechnic or, full-time certified trainings with a course provider.<br/><br/>
 
 Truth is, though I've went to somewhat prestigious primary, secondary, and university schools... excelled in my studies, places of work, and now course projects... I still feel "insufficient".
