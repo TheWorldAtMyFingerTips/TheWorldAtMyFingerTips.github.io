@@ -6,13 +6,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   One dataset at a time.<br><br>
   I'm fuelled by using data to simplify complexities into actionable insights!
   <br><br>
-  <a href="https://theworldatmyfingertips.github.io/">View MY PROJECTS PORTFOLIO</a>
+  <a href="https://theworldatmyfingertips.github.io/">MY PROJECTS PORTFOLIO</a>
   <br>
-  <a href="https://theworldatmyfingertips.github.io/my_articles">View MY ARTICLES</a>
+  <a href="https://theworldatmyfingertips.github.io/my_articles">MY ARTICLES</a>
   <br>
-  <a href="https://theworldatmyfingertips.github.io/aboutme">View ABOUT ME</a>
+  <a href="https://theworldatmyfingertips.github.io/aboutme">ABOUT ME</a>
   <br>
-  <a href="https://www.linkedin.com/in/megan-ng-7708a74/">View MY LINKEDIN PROFILE</a> 
+  <a href="https://www.linkedin.com/in/megan-ng-7708a74/">MY LINKEDIN PROFILE</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
