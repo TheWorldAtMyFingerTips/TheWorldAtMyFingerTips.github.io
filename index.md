@@ -3,7 +3,9 @@
 ---
 
 ### [Excel Interactive Dashboard - Sample Superstore (Retail)](/Excel_Dashboard.md)
-This project is based off the context that my boss (my target audience) wants a dashboard with key performance indicators to enable an overview of the business, with the segregation by region (as each Head of Sales is charge of a region). The dashboard will allow him to dynamically extract the relevant KPIs while speaking to the Heads of Sales to get deeper insights as to why the metrics is so, with the ultimate objective of driving sales growth.
+This project is based off the context that my boss (my target audience) wants a dashboard with key performance indicators to enable an overview of the business, with the segregation by region (as each Head of Sales is charge of a region).
+
+The dashboard will allow him to dynamically extract the relevant KPIs while speaking to each Head of Sales to get deeper insights as to why the metrics is so, with the ultimate objective of driving sales growth.
 
 <img src="images/Excel-Dashboard.gif"/>
 
