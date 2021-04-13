@@ -98,10 +98,10 @@ Scoring rubrics contain components of:
 
 <img src="images/powerbi/Capstone Project 3 - Scoring Rubrics.JPG">
 
-The Boss is happy.
-The Heads of Sales are happy.
-**I aced the project.**
-I am happy.  
+The Boss is happy.<br\>
+The Heads of Sales are happy.<br\>
+**I aced the project.**<br\>
+I am happy.<br\><br\>
 
 
 ### Contact Me
