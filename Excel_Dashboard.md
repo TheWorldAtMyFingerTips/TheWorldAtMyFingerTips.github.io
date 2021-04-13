@@ -44,9 +44,10 @@ The boss is happy.
 **I aced the project.**
 \
 I am happy.
-\
 
-### Project Scoring Rubrics<br>
+
+### Project Scoring Rubrics
+
 [](/images/Capstone Project 1 - Scoring Rubrics.jpg)
 
 
