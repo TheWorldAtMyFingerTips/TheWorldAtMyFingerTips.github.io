@@ -44,58 +44,60 @@ Retail is a very dynamic business which doesn't stop, and it is important to des
 
 Any experienced Power BI user would know that the foundation of Power BI lies in the relationship of the tables (in the model), and that was one of the essential steps that I took - to ensure that built tables are 100% sound and robust. You can see my model's table relationships in the image below:
 
-![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20Model%20Relationship%20Tables.JPG)
+<img src="images/powerbi/Power BI Model Relationship Tables.JPG">
 
 Next, I focused on designing the **OVERVIEW** dashboard, bearing in mind my stakeholders' preferred metrics of performance. I bridged these preferred metrics together with additional metrics which I felt would benefit them and this is the final product of the **OVERVIEW** dashboard:
-</br></br>
-![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20Global%20Superstore%20-%20Overview.JPG)
+
+<img src="images/powerbi/Power BI Global Superstore - Overview.JPG">
 
 The **OVERVIEW** can be dynamically tweaked to suit the perspective of each Head of Sales' region, and/or Segment, with the order dates of interest - simply by choosing the options from the slicers located at the top of the dashboard.
 
 Since responsibilites are split according to regions, my next dashboard was designed from the angle of **WHERE**. As like the overview, it can be dynamically tweaked to suit the perspective of each Head of Sales' region, and/or Segment, with the order dates of interest - simply by choosing the options from the slicers located at the top of the dashboard.
 
-![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20Global%20Superstore%20-%20Where.JPG)
+<img src="images/powerbi/Power BI Global Superstore - Where.JPG">
+
 
 After knowing which regions to focus on, the next dashboard answers the **WHEN**. Again, it can be dynamically tweaked to suit the perspective of each Head of Sales' region, and/or Segment, with the order dates of interest, **and** the added option of product category - simply by choosing the options from the slicers located at the left. Users can also drill into the details by quarters, months, and days, if they like - simply by adjusting the hierachy levels at the top of the visual.
 
-![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20Global%20Superstore%20-%20When%20(NEW).JPG)
+<img src="images/powerbi/Power BI Global Superstore - When (NEW).JPG">
 
 The next dashboard answers questions of the **WHAT** - whereby users can, at a glance, see each categories' corresponding gross profit % mix, gross profit, sales % mix, gross sales, quantity % mix, quantity, average discount, and average retail. Users can also drill further into the sub-categories and product names - simply by clicking on the fork (located at the top of the visual).
-</br></br>
-![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power-BI-Whatgif.gif)
+
+<img src="images/powerbi/Power BI Global Superstore -Whatgif.gif">
 
 Next dashboard dwells into the **WHO** - the customers. Users can view which customers are the top (and bottom) by gross profit % mix, gross profit, sales % mix, gross sales, quantity % mix, quantity, average discount, and average retail.
 
-![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20-%20Who.gif)
+<img src="images/powerbi/Power BI Global Superstore - Who.gif">
 
 The last 2 dashboards are somewhat like guides as to **HOW** to make the best use out of the forementioned dashboards (of overview, where, when, what, who) by raising attention to the **WHY**. The dashboards are designed to be self-explanatory, as follows:
-</br></br>
-![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20Global%20Superstore%20-%20How1.JPG)
-</br></br>
 
-![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Power%20BI%20Global%20Superstore%20-%20How2.JPG)
-</br></br>
+<img src="images/powerbi/Power BI Global Superstore - How1.JPG">
+
+
+<img src="images/powerbi/Power BI Global Superstore - How2.JPG">
+
 
 ### Results
 And here is the final product - [My first Power BI Dashboard](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/Global%20Superstore%20(Retail).pbix)
 
-![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/PowerBI-gif.gif)
+<img src="images/powerbi/PowerBI-gif-gif">
+
+
 Scoring rubrics contain components of:
-* Report
-* Data Wrangling
-* Storytelling
-* Communication
+* Report (5 points)
+* Data Wrangling (5 points)
+* Storytelling (5 points)
+* Communication (5 points)
 
-I presented this to the Boss and various Heads of Sales, from a standpoint of training them how to use it.</br>
+I presented this to the Boss and various Heads of Sales, from a standpoint of training them how to use it.
 
-The Boss is happy.</br>
-The Heads of Sales are happy.</br>
-**I aced the project.**</br>
-I am happy.</br>
+The Boss is happy.
+The Heads of Sales are happy.
+**I aced the project.**
+I am happy.
 
-###### Capstone Project 3: Power BI Dashboard Scoring Rubrics
-![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/images/Capstone%20Project%203%20-%20Scoring%20Rubrics.JPG)
-</br></br>
+
+<img src="images/powerbi/Capstone Project 3 - Scoring Rubrics.JPG">
 
 ### Contact Me
 Contact Platform | Contact Address
