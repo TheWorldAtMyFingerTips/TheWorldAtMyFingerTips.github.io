@@ -7,7 +7,7 @@ This project is based off the context that my boss (my target audience) wants a 
 
 The dashboard will allow him to dynamically extract the relevant KPIs while speaking to each Head of Sales to get deeper insights as to why the metrics is so, with the ultimate objective of driving sales growth.
 
-<img src="images/Excel-Dashboard.jpg"/>
+<img src="images/Excel-Dashboard.gif"/>
 
 ---
 ### PowerBI - Global Superstore (Retail)
