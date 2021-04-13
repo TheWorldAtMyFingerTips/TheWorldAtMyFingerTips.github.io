@@ -7,7 +7,7 @@ This project is based off the context that my boss (my target audience) wants a 
 
 The dashboard will allow him to dynamically extract the relevant KPIs while speaking to each Head of Sales to get deeper insights as to why the metrics is so, with the ultimate objective of driving sales growth.
 
-<img src="images/Excel-Dashboard.gif"/>
+<img src="images/Excel-Dashboard.gif?raw=true"/>
 
 ---
 ### [PowerBI - Global Superstore (Retail)](/PowerBI.md)
@@ -15,7 +15,7 @@ This project is based off the context that my boss wants an "app-like experience
 
 The dashboard will be used by my boss and the various Sales Heads (whose responsibilities are segregated by region).
 
-<img src="images/PowerBI-gif.gif"/>
+<img src="images/PowerBI-gif.gif?raw=true"/>
 
 ---
 
