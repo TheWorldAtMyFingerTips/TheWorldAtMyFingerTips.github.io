@@ -5,7 +5,7 @@
 ### Interactive Excel Dashboard: Sample Superstore (Retail)
 
 [Project Background](/Excel_Dashboard.md)
-<img_src="images/Excel-Dashboard.gif"/>
+<img src="images/Excel-Dashboard.gif"/>
 
 ---
 [Project 1 Title](/sample_page)
