@@ -35,9 +35,10 @@ A "good" school can only teach that much to an individual who does not have a go
 A growth mindset takes one further than a fixed mindset ever could.<br/>
 
 Case in point, I was feeling unconfident.<br/>
-So I did the research and analysis to gain clarity and uncover the belief and confidence that I am in fact, better than good!<br/>
-As Sonia Sotomayor said, "A surplus of effort could overcome a deficit of confidence." It certainly did for me.<br/>
-Make the effort. Take action.<br/><br/>
+So I did the research and analysis to gain clarity and uncover the belief and confidence that I am in fact, better than good!<br/><br/>
+As Sonia Sotomayor said, "A surplus of effort could overcome a deficit of confidence." <br/>It certainly did for me.<br/>
+Make the effort. <br/>
+Take action.<br/><br/>
 
 **WE ARE THE POWER OF HOW POWERFUL WE BECOME.<br/>
 WHAT EXPONENTIAL DID YOU CHOOSE FOR YOURSELF TODAY?**<br/>
