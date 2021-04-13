@@ -54,6 +54,7 @@ My score was a 19/20.
 
 ### Contact Me
 
-**LinkedIn:** https://www.linkedin.com/in/megan-ng-7708a74/  
+**LinkedIn:** https://www.linkedin.com/in/megan-ng-7708a74/
+<br/>
 **Email:** megan_ng@hotmail.com
 
