@@ -11,6 +11,7 @@
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+[Building Machine Learning Models using Python: Instagram Top Posts](/python/2021.03.05 - CAPSTONE PROJECT 4 PRESENTATION.ppt)
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
