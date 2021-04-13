@@ -10,6 +10,7 @@ The dashboard will allow him to dynamically extract the relevant KPIs while spea
 <img src="images/Excel-Dashboard.gif?raw=true"/>
 
 ---
+
 ### [PowerBI - Global Superstore (Retail)](/PowerBI.md)
 This project is based off the context that my boss wants an "app-like experience" in PowerBI, with dashboards which not only enable the overview of business, but also inspires actionable insights, with the ultimate objective of driving sales growth. It provides actionable angles of the overview, where, when, what, who, why, and hows.
 
@@ -19,6 +20,12 @@ The dashboard will be used by my boss and the various Sales Heads (whose respons
 
 ---
 
+### [Python Machine Learning Models - Instagram Top Posts](/Python.mc)
+In today's society, smartphones have become ubiquitious and an essential tool for most of us. Especially with the lockdown of COVID-19, humans have increasingly turned to social media platforms to get their daily fixes of interaction. Instagram is one of the most-used social platforms today, with a concept built around image and video sharing. While the app started off based on personal interactions, it has now evolved to encompass business-to-consumer interactions, making the landscape increasingly competitive and thus, imperative to capture customers' attention by having their content as one of the top posts.
+
+This project is based off the context that the boss wants to better understand Instagram's algorithm and, from a user-standpoint - find out which are the "super" variables to focus his efforts on, in the trajectory to making Instagram top posts.
+
+---
 
 
 [Project 1 Title](/sample_page)
@@ -28,8 +35,6 @@ The dashboard will be used by my boss and the various Sales Heads (whose respons
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Building Machine Learning Models using Python: Instagram Top Posts](https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/python/2021.03.05%20-%20CAPSTONE%20PROJECT%204%20PRESENTATION.pptx)
-https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/python/2021.03.05%20-%20CAPSTONE%20PROJECT%204%20PRESENTATION.pptx
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
