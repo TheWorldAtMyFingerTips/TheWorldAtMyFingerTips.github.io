@@ -4,8 +4,8 @@
 
 ### Interactive Excel Dashboard: Sample Superstore (Retail)
 
-[Project Background](https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/Excel_Dashboard.md)
-<img_src=https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/Excel-Dashboard.gif>
+[Project Background](/master/Excel_Dashboard.md)
+<img_src=images/Excel-Dashboard.gif?raw=true"/>
 
 ---
 [Project 1 Title](/sample_page)
