@@ -8,8 +8,8 @@ Power BI is an application which allows users to get started quickly by unifying
 
 This Capstone Project was designed to jog our cognitive process, reinforce and apply our knowledge to "real-life" cases so as to solidify our learnings. We were graded on our ability to showcase and exhibit the five stages of the data lifecycle through the use of Power BI (data collection, creating tables and loading data into Power BI databases, data preparation, data analysis using Power BI, creating visualizations and interactive dashboards, communication of the case study to stakeholders).
 
-# Capstone Project 3: Global Superstore
-[Click to download my PowerPoint presentation] (Retail)(files/powerbi/Capstone Project 3 - Power BI (Global Superstore).pptx)
+# Capstone Project 3: Global Superstore (Retail)
+[Click here to download my PowerPoint presentation](files/powerbi/Capstone Project 3 - Power BI (Global Superstore).pptx)
 
 ### Abstract
 > "A picture is worth a thousand words." - Henrik Ibsen
@@ -79,7 +79,7 @@ The last 2 dashboards are somewhat like guides as to **HOW** to make the best us
 
 
 ### Results
-And here is the final product - [Click to download my Power BI Dashboard](files/powerbi/Global Superstore (Retail).pbix
+And here is the final product - [Click here to download my Power BI Dashboard](files/powerbi/Global Superstore (Retail).pbix
 )
 
 <img src="images/powerbi/PowerBI-gif.gif">
@@ -91,13 +91,14 @@ The Heads of Sales are happy.
 **I aced the project.**
 I am happy.
 
+
 Scoring rubrics contain components of:
 * Report (5 points)
 * Data Wrangling (5 points)
 * Storytelling (5 points)
 * Communication (5 points)
 
-I scored 19 out of 20.
+**I scored a 19 out of 20.**
 
 <img src="images/powerbi/Capstone Project 3 - Scoring Rubrics.JPG">
 
