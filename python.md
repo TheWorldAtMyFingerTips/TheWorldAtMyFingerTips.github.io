@@ -2,7 +2,7 @@
 
 ### Module Introduction
 Python was the final *language* in the curriculum. We had started off with the basics (of data types, flow control, functions, dictionaries, classes, etc.), learnt how to automate repetitive tasks, data analytics, create dashboards, and build machine learning models (of linear regression, k-nearest neighbours, support vector machines, random forests, neural networks, deep learning with Keras and TensorFlow, etc).
-
+<
 
 # Capstone Project: Build Machine Learning Models for the Instagram Top Post
 [Click here to download my PowerPoint presentation](files/python/2021.03.05 - CAPSTONE PROJECT 4 PRESENTATION.pptx)
@@ -60,15 +60,15 @@ The data-driven approach suggests to focus on creating content which:
 But of course, that being said, life is a mix of the quants and qualitative aspects and so we need to consider the latter as well :)
 
 
-I presented the above-mentioned to "The Boss".<br\>
-He was pleased.<br\>
-He awarded my efforts with a PERFECT score.<br\>
-I am more than pleased.<br\>
-<br\><br\>
+I presented the above-mentioned to "The Boss".<br/>
+He was pleased.<br/>
+He awarded my efforts with a PERFECT score.<br/>
+I am more than pleased.<br/>
+<br/><br/>
 
 ##### Capstone Project 4: Building Machine Learning Models Using Python Scoring Rubrics
 <img src="images/python/Capstone Project 4 - Scoring Rubrics.jpg">
-<br\>
+<br/>
 
 ### Contact me
 
