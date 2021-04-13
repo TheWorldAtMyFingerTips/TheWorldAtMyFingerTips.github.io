@@ -37,16 +37,14 @@ And here is the final product - [My Excel Interactive Dashboard.](files/U.S. Sup
 
 ![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/Excel/images/Excel-Dashboard.gif)
 
-I presented this to the boss, from a standpoint of training him how to use it.</br>
+I presented this to the boss, from a standpoint of training him how to use it.
 
 The boss is happy.
-
 **I aced the project.**
-
 I am happy.
 
-###### Capstone Project 1: Interactive Excel Dashboard Scoring Rubrics
-![](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/Excel/images/Capstone%20Project%201%20-%20Scoring%20Rubrics.jpg)
+### Project Scoring Rubrics
+[](/images/Capstone%20Project%201%20-%20Scoring%20Rubrics.jpg)
 
 
 ### Contact Me
