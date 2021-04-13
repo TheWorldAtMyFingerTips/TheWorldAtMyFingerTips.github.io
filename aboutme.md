@@ -8,7 +8,7 @@ One thing led to another and now, I am currently pursuing an Associate Data Anal
 <br/><br/>
 
 ### Contact me
-<br/>
+
 LinkedIn | [https://www.linkedin.com/in/megan-ng-7708a74/](https://www.linkedin.com/in/megan-ng-7708a74/)<br/>
 Email | megan_ng@hotmail.com
 <br/><br/>
