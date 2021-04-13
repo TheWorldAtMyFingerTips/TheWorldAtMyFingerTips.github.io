@@ -48,7 +48,7 @@ I am happy.
 ### Project Scoring Rubrics
 
 <img src="images/Capstone Project 1 - Scoring Rubrics.jpg"/>
-
+<br/>
 
 ### Contact Me
 
