@@ -39,9 +39,12 @@ And here is the final product - [Download my Excel Interactive Dashboard.](files
 
 I presented this to the boss, from a standpoint of training him how to use it.
 
-The boss is happy.\
-**I aced the project.**\
-I am happy.\
+The boss is happy.
+\
+**I aced the project.**
+\
+I am happy.
+\
 
 ### Project Scoring Rubrics<br>
 [](/images/Capstone Project 1 - Scoring Rubrics.jpg)
