@@ -35,7 +35,7 @@ Finally, I thought about the theme of the Dashboard. My considerations include:
 ### Results
 And here is the final product - [Download my Excel Interactive Dashboard.](files/U.S. Superstore (Retail).xlsx)
 
-<img src="images/Excel_Dashboard.gif"/>
+<img src="images/Excel-Dashboard.gif"/>
 
 
 I presented this to the boss, from a standpoint of training him how to use it.
