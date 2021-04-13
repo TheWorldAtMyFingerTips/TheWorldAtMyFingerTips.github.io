@@ -9,7 +9,7 @@ Truth is, though I've went to somewhat prestigious primary, secondary, and unive
 The most pressing thorn at the moment being, feeling inferior to a full-time diploma Data Analytics grad (I am a full-time Associate Data Analyst student with NTUCLearningHub and Xaltius).<br/>
 
 And so... in a bid to remove that thorn, I've taken to research (via the internet, books, speaking with people), to derive peace and confidence from the following points:<br/>
-* Full-time diploma courses (in Singapore) are a 3-year stint which trains you from the basics of the basics (most students do not have years of hands-on related industry experience);
+* Full-time diploma courses (in Singapore) are a 3-year stint which trains you from the _basics of the basics_ (most students do not have years of hands-on related industry experience);
 * My full-time 9-month course trained me from the basics of Data Science (I've already got the basics of the basics solidified from my years of experience at work).
 * Furthermore, my course curriculum ensured optimal applied learning through its hefty weightage of projects which replicates real-life working situations.
 * Yes the learning environment and time plays a part in the learning process, but as like all other things in life, it is not the sole determinant of what you can achieve/accomplish.
