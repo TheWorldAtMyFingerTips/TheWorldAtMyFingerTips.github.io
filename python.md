@@ -5,9 +5,9 @@ Python was the final *language* in the curriculum. We had started off with the b
 <
 
 # Capstone Project: Build Machine Learning Models for the Instagram Top Post
-[Click here to download my PowerPoint presentation](files/python/2021.03.05 - CAPSTONE PROJECT 4 PRESENTATION.pptx)
-[Click here to download my Jupyter notebook code](files/python/Instagram Top Post.ipynb)
-
+[Click here to download my PowerPoint Presentation](files/python/2021.03.05 - CAPSTONE PROJECT 4 PRESENTATION.pptx)<br/>
+[Click here to download my Jupyter Notebook Code](files/python/Instagram Top Post.ipynb)
+<br/>
 
 ### Abstract
 In today's society, smartphones have become ubiquitious and an essential tool for most of us. Especially with the lockdown of COVID-19, humans have increasingly turned to social media platforms to get their daily fixes of interaction. Instagram is one of the most-used social platforms today, with a concept built around image and video sharing. While the app started off based on personal interactions, it has now evolved to encompass business-to-consumer interactions, making the landscape increasingly competitive and thus, imperative to capture customers' attention by having their content as one of the top posts.
@@ -19,13 +19,14 @@ This project aims to better understand Instagram's algorithm and, from a user-st
 
 
 ### Dataset Introduction
-The [Instagram Top Post Dataset](https://www.kaggle.com/rezaunderfit/instagram-top-post) consists of 16 independent variables (of `like_count`, `hashtag_count`, `is_verified`, `is_video`, etc.) with a target column of "is_top". It is a balanced dataset which contains a total of 2170 entries.
+The [Instagram Top Post Dataset](https://www.kaggle.com/rezaunderfit/instagram-top-post) consists of 16 independent variables (of _like_count_, _hashtag_count_, _is_verified_, _is_video_, etc.) with a target column of "is_top". It is a balanced dataset which contains a total of 2170 entries.
 
 ### Problem Statement
-**Which variables hold higher weightage in making a post come up on top?** The dataset has a target column of `is_top`, with binary data of "Y" or "N". This project adopts a supervised learning approach, using Machine Learning Models of `Logistic Regression` and `Random Forest` in sifting out the "super" variables.
+**Which variables hold higher weightage in making a post come up on top?** The dataset has a target column of _is_top_, with binary data of "Y" or "N". This project adopts a supervised learning approach, using Machine Learning Models of **Logistic Regression** and **Random Forest** in sifting out the "super" variables.
+<br/>
 
 ### Process Workflow
-The dataset was checked and clean of missing values, datatypes were streamlined into two types (object, and non-object) to enable easy visualizations for the purpose of exploratory data analysis. Data was then pre-processed using label-encoding and one-hot-encoding, and then data was split and model trained. Due to the data being previously categorical and numerical, the range of the encoding was wide and so I scaled the data using `sklearn.preprocessing`'s `StandardScaler`, then fitted it to the training data and applied transformations to the data.
+The dataset was checked and clean of missing values, datatypes were streamlined into two types (object, and non-object) to enable easy visualizations for the purpose of exploratory data analysis. Data was then pre-processed using label-encoding and one-hot-encoding, and then data was split and model trained. Due to the data being previously categorical and numerical, the range of the encoding was wide and so I scaled the data using **sklearn.preprocessing**'s **StandardScaler**, then fitted it to the training data and applied transformations to the data.
 
 I warmed up by doing a baseline model using Logistic Regression and took note of the F1 Score.
 
@@ -47,30 +48,36 @@ The results look good as well with immaterial False Postives and False Negatives
 ##### Results in a Confusion Matrix Visualization
 <img src="images/python/Confusion Matrix.JPG">
 
-Having plotted the features importance into a visualization, we can deduce that the top "super" variables are `like_count`, `comments_count`, and `followers_count`.
+Having plotted the features importance into a visualization, we can deduce that the top "super" variables are _like_count_, _comments_count_, and _followers_count_.
 
 <img src="images/python/Features Importance.JPG">
 
 
 The data-driven approach suggests to focus on creating content which:
-* aim to provide instant gratification --> `like_count`
-* encourages engagement --> `comments_count`
-* is addictive --> `followers`
+* aim to provide instant gratification --> _like_count_
+* encourages engagement --> _comments_count_
+* is addictive --> _followers_
 
 But of course, that being said, life is a mix of the quants and qualitative aspects and so we need to consider the latter as well :)
 
+<br/>
+We were rated on 5 components:
+* Design (5 points)
+* Data (5 points)
+* Algorithms (5 points)
+* Tools (5 points)
+* Communication (5 points)
 
 I presented the above-mentioned to "The Boss".<br/>
 He was pleased.<br/>
-He awarded my efforts with a PERFECT score.<br/>
+**He awarded my efforts with a PERFECT score.**<br/>
 I am more than pleased.<br/>
 <br/><br/>
 
-##### Capstone Project 4: Building Machine Learning Models Using Python Scoring Rubrics
 <img src="images/python/Capstone Project 4 - Scoring Rubrics.jpg">
 <br/>
 
 ### Contact me
 
-**LinkedIn:** https://www.linkedin.com/in/megan-ng-7708a74/
+**LinkedIn:** [https://www.linkedin.com/in/megan-ng-7708a74/](https://www.linkedin.com/in/megan-ng-7708a74/)
 **Email:** megan_ng@hotmail.com
