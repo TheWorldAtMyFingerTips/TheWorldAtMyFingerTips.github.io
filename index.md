@@ -21,11 +21,10 @@ The dashboard will be used by my boss and the various Sales Heads (whose respons
 ---
 
 ### [PYTHON Machine Learning Models - Instagram Top Posts](python.md)
-In today's society, smartphones have become ubiquitious and an essential tool for most of us. Especially with the lockdown of COVID-19, humans have increasingly turned to social media platforms to get their daily fixes of interaction. Instagram is one of the most-used social platforms today, with a concept built around image and video sharing. While the app started off based on personal interactions, it has now evolved to encompass business-to-consumer interactions, making the landscape increasingly competitive and thus, imperative to capture customers' attention by having their content as one of the top posts.
-
 This project is based off the context that the boss wants to better understand Instagram's algorithm and, from a user-standpoint - find out which are the "super" variables to focus his efforts on, in the trajectory to making Instagram top posts.
 
 <img src="images/python/What is an Insta Top Post.png">
+
 ---
 
 
