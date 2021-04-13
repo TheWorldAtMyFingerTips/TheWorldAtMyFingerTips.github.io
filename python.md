@@ -1,5 +1,5 @@
 # Building Machine Learning Models using Python
-
+<br/>
 ### Module Introduction
 Python was the final *language* in the curriculum. We had started off with the basics (of data types, flow control, functions, dictionaries, classes, etc.), learnt how to automate repetitive tasks, data analytics, create dashboards, and build machine learning models (of linear regression, k-nearest neighbours, support vector machines, random forests, neural networks, deep learning with Keras and TensorFlow, etc).
 <br/><br/>
@@ -16,14 +16,15 @@ This project aims to better understand Instagram's algorithm and, from a user-st
 
 ##### Top Posts in the Explore and Home tabs
 <img src="images/python/What is an Insta Top Post.png">
-
+<br/><br/>
 
 ### Dataset Introduction
 The [Instagram Top Post Dataset](https://www.kaggle.com/rezaunderfit/instagram-top-post) consists of 16 independent variables (of _like_count_, _hashtag_count_, _is_verified_, _is_video_, etc.) with a target column of "is_top". It is a balanced dataset which contains a total of 2170 entries.
+<br/><br/>
 
 ### Problem Statement
 **Which variables hold higher weightage in making a post come up on top?** The dataset has a target column of _is_top_, with binary data of "Y" or "N". This project adopts a supervised learning approach, using Machine Learning Models of **Logistic Regression** and **Random Forest** in sifting out the "super" variables.
-<br/>
+<br/><br/>
 
 ### Process Workflow
 The dataset was checked and clean of missing values, datatypes were streamlined into two types (object, and non-object) to enable easy visualizations for the purpose of exploratory data analysis. Data was then pre-processed using label-encoding and one-hot-encoding, and then data was split and model trained. Due to the data being previously categorical and numerical, the range of the encoding was wide and so I scaled the data using **sklearn.preprocessing**'s **StandardScaler**, then fitted it to the training data and applied transformations to the data.
@@ -36,6 +37,7 @@ Next, I carried out the same steps with my second machine learning model **(Rand
 
 ##### Comparison of Random Forest and Logistic Regression Model's Metrics
 <img src="images/python/ML Models Comparison.JPG">
+<br/><br/>
 
 ### Results
 Fortunately, the model metrics for the test data did not vary significantly (vs the training data). 
