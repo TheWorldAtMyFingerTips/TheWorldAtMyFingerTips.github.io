@@ -30,9 +30,9 @@ The dataset was checked and clean of missing values, datatypes were streamlined 
 
 I warmed up by doing a baseline model using Logistic Regression and took note of the F1 Score.
 
-After which I got down to serious business by setting up my first machine learning model `(Logistic Regression)`, then getting down and dirty with hyperparameter tuning. Using the best hyperparameters and estimators (from my tuning), I fitted them to the training data, predicted with the test data, to obtain the classification report for the model. The machine learning Logistic Regression model's F1 Score topped the baseline model. I am happy.
+After which I got down to serious business by setting up my first machine learning model **(Logistic Regression)**, then getting down and dirty with hyperparameter tuning. Using the best hyperparameters and estimators (from my tuning), I fitted them to the training data, predicted with the test data, to obtain the classification report for the model. The machine learning Logistic Regression model's F1 Score topped the baseline model. I am happy.
 
-Next, I carried out the same steps with my second machine learning model `(Random Forest)` - Setup the classifier, hyperparameter tuning, fitting... you get the drift. This new model's F1 Score topped the previous (Logistic Regression). With **Random Forest as my best model**, I moved on to predicting and evaluating using my test data.
+Next, I carried out the same steps with my second machine learning model **(Random Forest)** - Setup the classifier, hyperparameter tuning, fitting... you get the drift. This new model's F1 Score topped the previous (Logistic Regression). With **Random Forest as my best model**, I moved on to predicting and evaluating using my test data.
 
 ##### Comparison of Random Forest and Logistic Regression Model's Metrics
 <img src="images/python/ML Models Comparison.JPG">
@@ -61,7 +61,7 @@ The data-driven approach suggests to focus on creating content which:
 But of course, that being said, life is a mix of the quants and qualitative aspects and so we need to consider the latter as well :)
 
 <br/>
-We were rated on 5 components:
+We were rated on 5 components of:
 * Design (5 points)
 * Data (5 points)
 * Algorithms (5 points)
@@ -70,7 +70,7 @@ We were rated on 5 components:
 
 I presented the above-mentioned to "The Boss".<br/>
 He was pleased.<br/>
-**He awarded my efforts with a PERFECT score.**<br/>
+**He awarded my efforts with a PERFECT score of 25/25.**<br/>
 I am more than pleased.<br/>
 <br/><br/>
 
@@ -79,5 +79,5 @@ I am more than pleased.<br/>
 
 ### Contact me
 
-**LinkedIn:** [https://www.linkedin.com/in/megan-ng-7708a74/](https://www.linkedin.com/in/megan-ng-7708a74/)
+**LinkedIn:** [https://www.linkedin.com/in/megan-ng-7708a74/](https://www.linkedin.com/in/megan-ng-7708a74/)<br/>
 **Email:** megan_ng@hotmail.com
