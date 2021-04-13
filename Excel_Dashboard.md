@@ -51,7 +51,7 @@ Finally, I thought about the theme of the Dashboard. My considerations include:
 
 
 ### Results
-And here is the final product - [Download my Excel Interactive Dashboard.](files/U.S. Superstore (Retail).xlsx)
+And here is the final product - [Click here to download my Excel Interactive Dashboard.](files/U.S. Superstore (Retail).xlsx)
 
 <img src="images/Excel-Dashboard.gif?raw=true"/>
 
