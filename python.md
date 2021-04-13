@@ -61,6 +61,8 @@ The data-driven approach suggests to focus on creating content which:
 But of course, that being said, life is a mix of the quants and qualitative aspects and so we need to consider the latter as well :)
 
 <br/>
+### Project Scoring Rubrics
+
 We were rated on 5 components of:
 * Design (5 points)
 * Data (5 points)
