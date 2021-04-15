@@ -38,8 +38,8 @@ Some of the questions answered include:
 
 ## Process Workflow
 #### *Planning*
-```As Benjamin Franklin said,
-"If you fail to plan, you are planning to fail."```
+As Benjamin Franklin said,
+> "If you fail to plan, you are planning to fail."
 
 Likewise when dealing with databases, it is good practice (an essential, for me), to start off with planning.<br/><br/>
 I did this by doing up an [ER-diagram](https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/1.%20ER-Diagram.JPG):
