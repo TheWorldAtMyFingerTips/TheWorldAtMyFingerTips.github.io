@@ -40,7 +40,7 @@ I did this by doing up an ER-diagram:
 In the SQL Server, I created a new database named _MOVIES_, uploaded the files, used aggregate functions to check for duplicate rows and deleted the duplications in the files. <br/>
 
 #### *Data Analysis*
-Moving on to the Data Analysis part, as usual, I took a top-down approach in analysing the data as I like to have an overall feel of what the dataset is about before I drill down into the nitty gritties (which might overwhelm if I started off there).
+Moving on to the Data Analysis part, as usual, I took a top-down approach in analysing the data as I like to have an overall feel of what the dataset is about before I drill down into the nitty gritties (which might overwhelm if I started off there).<br/><br/>
 
 Then, I started drilling down to find out:
 * The spread of the dataset (number of movies released per year, per month
@@ -50,6 +50,7 @@ Then, I started drilling down to find out:
 * Top 30 movies which bring in the most revenue for the last 20 years
 * Which genre was produced the most in the last 20 years
 * Details of top 200 movies (with details) with top engagement (no_of_raters)
+<br/><br/>
 
 #### *Data Manipulation*
 And finally, create a data dump for the Excel Dashboard by creating views and joining all the relevant views and tables together.
@@ -60,8 +61,12 @@ I imported the data dump into Excel, did the necessary pivot tables, visualizati
 <img src="images/SQL/Excel Dashboard_2.JPG">
 <img src="images/SQL/Excel Dashboard_3.JPG">
 <img src="images/SQL/Excel Dashboard_4.JPG">
+<br/>
+<br/>
 
-#### *Dashboard Takeaways*
+### Dashboard Takeaways
+I presented the following takeaways to the Boss.
+
 <img src="images/SQL/12. Dashboard_Takeaways_1.png">
 <img src="images/SQL/13. Dashboard_Takeaways_2.png">
 <img src="images/SQL/14. Dashboard_Takeaways_3.png">
@@ -69,3 +74,27 @@ I imported the data dump into Excel, did the necessary pivot tables, visualizati
 <img src="images/SQL/16. Dashboard_Takeaways_5.png">
 <img src="images/SQL/17. Dashboard_Takeaways_6.png">
 <img src="images/SQL/18. Dashboard_Takeaways_7.png">
+
+With my final suggestion to start off with a high return on investment movie (Horror/Thriller genre)...
+The Boss is very pleased.
+I **aced** the project.
+I am pleased.
+I scored a 19 out of 20.
+
+
+### Project Scoring Rubrics
+We were rated based on the following 4 components:
+* Database Design (5 points)
+* Data (5 points)
+* Communication (5 points)
+* Process (5 points)
+
+<img src="images/SQL/Capstone Project 2 - Scoring Rubrics.jpg">
+<br/>
+
+### Contact me
+
+LinkedIn | [https://www.linkedin.com/in/megan-ng-7708a74/](https://www.linkedin.com/in/megan-ng-7708a74/)
+Email | megan_ng@hotmail.com
+
+
