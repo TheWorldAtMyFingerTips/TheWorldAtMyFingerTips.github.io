@@ -23,14 +23,14 @@ The dashboard will be used by my boss and the various Sales Heads (whose respons
 ### [PYTHON Machine Learning Models - Instagram Top Posts](python.md)
 This project is based off the context that the boss wants to better understand Instagram's algorithm and, from a user-standpoint - find out which are the "super" variables to focus his efforts on, in the trajectory to making Instagram top posts.
 
-<img src="images/python/What is an Insta Top Post.png">
+<img src="images/python/Jupyter notebook snapshot.JPG">
 
 ---
 
 ### SQL - The Movie Industry, An Overview
 As like most things in life, there are a plethora of variables as to what makes a movie a "success". This project is based off the angle that my boss is looking towards going into the movie business and would like to get a overall sense of the movie industry.
 
-<img src="images/SQL/SQL Presentation Cover.png">
+<img src="images/SQL/Sql Code.JPG">
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
