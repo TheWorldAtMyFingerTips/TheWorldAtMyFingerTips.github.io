@@ -69,7 +69,8 @@ After knowing which regions to focus on, the next dashboard answers the **WHEN**
 
 The next dashboard answers questions of the **WHAT** - whereby users can, at a glance, see each categories' corresponding gross profit % mix, gross profit, sales % mix, gross sales, quantity % mix, quantity, average discount, and average retail. Users can also drill further into the sub-categories and product names - simply by clicking on the fork (located at the top of the visual).
 
-<img src="images/powerbi/Power-BI-Whatgif.gif?raw=true">
+<a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/powerbi/Power-BI-Whatgif.gif"><img src="images/powerbi/Power-BI-Whatgif.gif?raw=true">
+  </a>
 
 Next dashboard dwells into the **WHO** - the customers. Users can view which customers are the top (and bottom) by gross profit % mix, gross profit, sales % mix, gross sales, quantity % mix, quantity, average discount, and average retail.
 
