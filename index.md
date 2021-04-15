@@ -17,21 +17,24 @@ This project is based off the context that my boss wants an "app-like experience
 
 The dashboard will be used by my boss and the various Sales Heads (whose responsibilities are segregated by region).
 
-<img src="images/PowerBI-gif.gif?raw=true"/>
+<a href="https://theworldatmyfingertips.github.io/PowerBI.html"><img src="images/PowerBI-gif.gif?raw=true"/>
+  </a>
 
 ---
 
 ### [PYTHON Machine Learning Models - Instagram Top Posts](python.md)
 This project is based off the context that the boss wants to better understand Instagram's algorithm and, from a user-standpoint - find out which are the "super" variables to focus his efforts on, in the trajectory to making Instagram top posts.
 
-<img src="images/python/Jupyter notebook snapshot.JPG">
+<a href="https://theworldatmyfingertips.github.io/python.html"><img src="images/python/Jupyter notebook snapshot.JPG">
+  </a>
 
 ---
 
 ### [SQL - The Movie Industry, An Overview](sql.md)
 As like most things in life, there are a plethora of variables as to what makes a movie a "success". This project is based off the angle that my boss is looking towards going into the movie business and would like to get a overall sense of the movie industry.
 
-<img src="images/SQL/Sql Code.JPG">
+<a href="https://theworldatmyfingertips.github.io/sql.html"><img src="images/SQL/Sql Code.JPG">
+  </a>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
