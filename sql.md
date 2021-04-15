@@ -100,8 +100,9 @@ I presented the following takeaways to the Boss.
   </a><br/>
 
 * Most released genre is Drama, followed by Comedy, then Thriller, followed by Action
+<br/>
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/13.%20Dashboard_Takeaways_2.png"><img src="images/SQL/13. Dashboard_Takeaways_2.png">
-  </a><br/>
+  </a><br/><br/>
 
 * Movies which bring in the **most revenue** are mostly Blockbusters
 * **Most expensive to produce** movies are mostly Blockbusters
@@ -113,7 +114,7 @@ I presented the following takeaways to the Boss.
 * Most released franchise movie is the collection of, Harry Potter, followed by The Fast & Furious, Saw, and James Bond with similar number of movie releases
 * Movies with the highest engagement in terms of ratings is The Matrix, then Fight Club
 * The highest average rating of 4.5 - 5 is _deemed to be **not representative**_ due to the extrememly low number of raters
-
+<br/>
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/15.%20Dashboard_Takeaways_4.png"><img src="images/SQL/15. Dashboard_Takeaways_4.png">
   </a><br/>
  
@@ -121,11 +122,12 @@ I showed the Boss how to work the Excel Interactive Dashboard by using the **sli
 * Released in Year 1999, 2002, 2005, 2015, 2016
 * In months of May and December
 * 3 releases in May, 2 releases in December
-
+<br/>
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/16.%20Dashboard_Takeaways_5.png"><img src="images/SQL/16. Dashboard_Takeaways_5.png">
   </a><br/>
 
 The **Star Wars Collection** falls under the genres of Action, Adventure, Science, Fiction, Fantasy
+<br/>
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/17.%20Dashboard_Takeaways_6.png"><img src="images/SQL/17. Dashboard_Takeaways_6.png">
   </a><br/>
 
@@ -133,6 +135,7 @@ The Dashboard would give him an efficient view of:
 * Each movie's Revenue, Budget, ROI
 * Which movie tops in terms of engagement by number of raters
 * corresponding rating per movie with number of raters
+<br/>
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/18.%20Dashboard_Takeaways_7.png"><img src="images/SQL/18. Dashboard_Takeaways_7.png">
   </a><br/>
 
@@ -152,7 +155,7 @@ We were rated based on the following 4 components:
 
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/Capstone%20Project%202%20-%20Scoring%20Rubrics.jpg"><img src="images/SQL/Capstone Project 2 - Scoring Rubrics.jpg">
   </a>
-<br/>
+<br/><br/>
 
 ## Contact me
 
