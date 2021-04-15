@@ -12,6 +12,8 @@ This Capstone Project was designed to jog our cognitive process, reinforce and a
 [Click here to download my PowerPoint Presentation Show](files/powerbi/Capstone Project 3 - Power BI (Global Superstore).pptx)<br/>
 [Click here to download my PowerBI Dashboard](files/powerbi/Global Superstore (Retail).pbix)
 
+<img src="images/powerbi/Powerpoint Cover.JPG">
+
 ### Abstract
 > "A picture is worth a thousand words." - Henrik Ibsen
 
