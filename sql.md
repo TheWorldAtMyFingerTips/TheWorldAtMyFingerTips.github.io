@@ -95,7 +95,7 @@ I presented the following takeaways to the Boss.
   - The number of movies released are fairly stable, above the 165 mark, with its peak at 192 movies in 2016
   - By month-wise, September has the most releases, followed by October
   - While the general highs are in Sep, 2016 seems to be an outlier whereby November saw the most releases... _testing the market perhaps_?<br/>
-
+<br/>
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/12.%20Dashboard_Takeaways_1.png"><img src="images/SQL/12. Dashboard_Takeaways_1.png">
   </a><br/>
 
