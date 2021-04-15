@@ -22,7 +22,7 @@ This project is based off the context that my boss (my target audience) wants a 
 
 # Capstone Project 1: Sample Superstore (Retail)
 [Click here to download my Excel Interactive Dashboard!](files/U.S. Superstore (Retail).xlsx)
-
+<br/>
 ### Dataset Introduction
 The [Sample Superstore Dataset](https://www.wisdomaxis.com/technology/software/data/for-reports/super-stores-data-for-reports.php) contains the Orders and Returns of a retail business in the United States of America. The business has three segments (Consumer, Corporate, Home Office), and sells a wide range of products under the categories of furniture, office supplies, and technology. The dataset contains 9994 rows of data, with columns such as sales, quantity, discount, profit, product_name, product_ID, order_date, and the like.  
 
@@ -66,7 +66,11 @@ I am happy.<br/>
 <br/>
 
 ### Project Scoring Rubrics
-We were rated on the areas of communication, data, storytelling, and design (5 points each).  
+We were rated on the areas of:
+* Communication (5 points)
+* Data (5 points)
+* Storytelling (5 points)
+* Design (5 points)
 <br/>
 **My score was a 19/20.**
 
