@@ -8,7 +8,7 @@ This Capstone Project was designed to ignite our cognitive process, reinforce an
 # Capstone Project 2: The Movie Industry, An Overview
 [Click here to download my SQL code](files/sql/Movies.sql)<br/>
 [Click here to download my Excel Interactive Dashboard](files/sql/Capstone Project 2 - Dashboard.xlsx)<br/>
-[Click here to download my PowerPoint Presentation Slides](files/sql/2020.11.09 - CAPSTONE PROJECT 2 PRESENTATION.pptx)<br/>
+[Click here to download my PowerPoint Presentation Show](files/sql/2020.11.09 - CAPSTONE PROJECT 2 PRESENTATION.pptx)<br/>
 
 <img src="images/SQL/SQL Presentation Cover.png">
 
