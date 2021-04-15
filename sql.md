@@ -126,7 +126,8 @@ We were rated based on the following 4 components:
 * Communication (5 points)
 * Process (5 points)
 
-<img src="images/SQL/Capstone Project 2 - Scoring Rubrics.jpg">
+<a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/Capstone%20Project%202%20-%20Scoring%20Rubrics.jpg"><img src="images/SQL/Capstone Project 2 - Scoring Rubrics.jpg">
+  </a>
 <br/>
 
 ### Contact me
