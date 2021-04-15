@@ -38,8 +38,8 @@ Some of the questions answered include:
 
 ## Process Workflow
 #### *Planning*
-As Benjamin Franklin said,
-> "If you fail to plan, you are planning to fail."
+```As Benjamin Franklin said,
+"If you fail to plan, you are planning to fail."```
 
 Likewise when dealing with databases, it is good practice (an essential, for me), to start off with planning.<br/><br/>
 I did this by doing up an [ER-diagram](https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/1.%20ER-Diagram.JPG):
@@ -94,7 +94,7 @@ I presented the following takeaways to the Boss.
 * Over the last 5 years:
   - The number of movies released are fairly stable, above the 165 mark, with its peak at 192 movies in 2016
   - By month-wise, September has the most releases, followed by October
-  - While the general highs are in Sep, 2016 seems to be an outlier whereby November saw the most releases... _testing the market perhaps_?<br/>
+  - While the general highs are in Sep, 2016 seems to be an outlier whereby November saw the most releases... _testing the market perhaps_?
 <br/>
 
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/12.%20Dashboard_Takeaways_1.png"><img src="images/SQL/12. Dashboard_Takeaways_1.png">
@@ -145,7 +145,7 @@ With my final suggestion to start off with a high return on investment movie (Ho
 The Boss is very pleased.<br/>
 I **aced** the project.<br/>
 I am pleased.<br/>
-I scored a 19 out of 20.<br/><br/>
+I scored a **19 out of 20**.<br/><br/>
 <br/>
 
 ## Project Scoring Rubrics
