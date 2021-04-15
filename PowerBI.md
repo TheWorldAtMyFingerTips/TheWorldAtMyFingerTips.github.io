@@ -9,7 +9,8 @@ Power BI is an application which allows users to get started quickly by unifying
 This Capstone Project was designed to jog our cognitive process, reinforce and apply our knowledge to "real-life" cases so as to solidify our learnings. We were graded on our ability to showcase and exhibit the five stages of the data lifecycle through the use of Power BI (data collection, creating tables and loading data into Power BI databases, data preparation, data analysis using Power BI, creating visualizations and interactive dashboards, communication of the case study to stakeholders).
 
 # Capstone Project 3: Global Superstore (Retail)
-[Click here to download my PowerPoint presentation](files/powerbi/Capstone Project 3 - Power BI (Global Superstore).pptx)
+[Click here to download my PowerPoint Presentation Show](files/powerbi/Capstone Project 3 - Power BI (Global Superstore).pptx)
+[Click here to download my PowerBI Dashboard](files/powerbi/Global Superstore (Retail).pbix)
 
 ### Abstract
 > "A picture is worth a thousand words." - Henrik Ibsen
