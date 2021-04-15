@@ -1,6 +1,6 @@
 # SQL
 
-### Module Introduction
+## Module Introduction
 Structured Query Language was the fourth core in the curriculum after the modules of Basics of Data Science, Power Query, and Excel. We started off with an introduction to databases, schemas, Entity-Relationship Diagrams, then moved on to SQL datatypes, basic commands, conditional operators, functions and aggregate functions, set operators, joins, and  finished off with stored procedures.
 
 This Capstone Project was designed to ignite our cognitive process, reinforce and apply our knowledge to "real-life" cases so as to solidify our learnings. We were graded on our ability to showcase and exhibit the five stages of the data lifecycle through the use of SQL and Excel (data collection, creating tables and loading data into SQL databases, data preparation, data analysis using SQL, creating Excel interactive dashboard and visualizations, presentation to stakeholders).<br/><br/>
@@ -12,10 +12,10 @@ This Capstone Project was designed to ignite our cognitive process, reinforce an
 
 <img src="images/SQL/SQL Presentation Cover.png">
 
-### Abstract
+## Abstract
 As like most things in life, there are a plethora of variables as to what makes a movie a "success". This project is based off the angle that my target audience is looking towards going into the movie business and would like to get a overall sense of the movie industry.<br/><br/>
 
-### Dataset Introduction
+## Dataset Introduction
 [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset) consists of 7 csv files (credits, keywords, links, moview_metadata, ratings, etc.). For this project's context, I have only used the following 4:
 * **movies_metadata.csv** (45,000+ rows) - contains info on movies with attributes of release dates, franchise family, genres, budget, revenue, homepages, production companies, etc.
 * **credits.csv** (45,000+ rows) - consists of cast and crew information per movie, in the form of a stringified JSON object
@@ -28,7 +28,7 @@ Files are massive to even load in Github! <br/>
 Just the ratings file alone is 692,921 KB.<br/><br/>
 
 
-### Problem Statement
+## Problem Statement
 **What is the direction I should take in coming up with my debut movie?** <br/><br/>
 Some of the questions answered include:
 * How does the trend of released movies look like from the angles of year-on-year, month-on-month?
@@ -36,7 +36,7 @@ Some of the questions answered include:
 * What movies have the highest return-on-investment?
 * What movies raked in the most revenue?<br/><br/>
 
-### Process Workflow
+## Process Workflow
 #### *Planning*
 As Benjamin Franklin said,
 > "If you fail to plan, you are planning to fail."
@@ -88,27 +88,50 @@ I imported the data dump into Excel, did the necessary pivot tables, visualizati
 <br/>
 <br/>
 
-### Dashboard Takeaways
+## Dashboard Takeaways
 I presented the following takeaways to the Boss.
 
+* Over the last 5 years:
+  - The number of movies released are fairly stable, above the 165 mark, with its peak at 192 movies in 2016
+  - By month-wise, September has the most releases, followed by October
+  - While the general highs are in Sep, 2016 seems to be an outlier whereby November saw the most releases... _testing the market perhaps_?
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/12.%20Dashboard_Takeaways_1.png"><img src="images/SQL/12. Dashboard_Takeaways_1.png">
   </a><br/>
-  
+
+* Most released genre is Drama, followed by Comedy, then Thriller, followed by Action
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/13.%20Dashboard_Takeaways_2.png"><img src="images/SQL/13. Dashboard_Takeaways_2.png">
   </a><br/>
-  
+
+* Movies which bring in the **most revenue** are mostly Blockbusters
+* **Most expensive to produce** movies are mostly Blockbusters
+* Movies with the **highest ROI** seem to be Horror/Thriller films (eg. Saw, Insidious, The Devil Inside, etc.) AND Comedy (eg. Super Size Me, Keeping Mum, The Full Monty, etc.)
+* Paranormal Activitiy, and The Blair Witch Project being **outliers** with massive ROIs!
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/14.%20Dashboard_Takeaways_3.png"><img src="images/SQL/14. Dashboard_Takeaways_3.png">
   </a><br/>
-  
+
+* Most released franchise movie is the collection of, Harry Potter, followed by The Fast & Furious, Saw, and James Bond with similar number of movie releases
+* Movies with the highest engagement in terms of ratings is The Matrix, then Fight Club
+* The highest average rating of 4.5 - 5 is _deemed to be **not representative**_ due to the extrememly low number of raters
+
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/15.%20Dashboard_Takeaways_4.png"><img src="images/SQL/15. Dashboard_Takeaways_4.png">
   </a><br/>
-  
+ 
+I showed the Boss how to work the Excel Interactive Dashboard by using the **slicers**... by taking the **Star Wars Collection** as an example. It was:
+* Released in Year 1999, 2002, 2005, 2015, 2016
+* In months of May and December
+* 3 releases in May, 2 releases in December
+
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/16.%20Dashboard_Takeaways_5.png"><img src="images/SQL/16. Dashboard_Takeaways_5.png">
   </a><br/>
-  
+
+The **Star Wars Collection** falls under the genres of Action, Adventure, Science, Fiction, Fantasy
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/17.%20Dashboard_Takeaways_6.png"><img src="images/SQL/17. Dashboard_Takeaways_6.png">
   </a><br/>
-  
+
+The Dashboard would give him an efficient view of:
+* Each movie's Revenue, Budget, ROI
+* Which movie tops in terms of engagement by number of raters
+* corresponding rating per movie with number of raters
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/18.%20Dashboard_Takeaways_7.png"><img src="images/SQL/18. Dashboard_Takeaways_7.png">
   </a><br/>
 
@@ -119,7 +142,7 @@ I am pleased.<br/>
 I scored a 19 out of 20.<br/><br/>
 <br/>
 
-### Project Scoring Rubrics
+## Project Scoring Rubrics
 We were rated based on the following 4 components:
 * Database Design (5 points)
 * Data (5 points)
@@ -130,7 +153,7 @@ We were rated based on the following 4 components:
   </a>
 <br/>
 
-### Contact me
+## Contact me
 
 LinkedIn | [https://www.linkedin.com/in/megan-ng-7708a74/](https://www.linkedin.com/in/megan-ng-7708a74/)
 Email | megan_ng@hotmail.com
