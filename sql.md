@@ -96,11 +96,12 @@ I presented the following takeaways to the Boss.
   - By month-wise, September has the most releases, followed by October
   - While the general highs are in Sep, 2016 seems to be an outlier whereby November saw the most releases... _testing the market perhaps_?<br/>
 <br/>
+
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/12.%20Dashboard_Takeaways_1.png"><img src="images/SQL/12. Dashboard_Takeaways_1.png">
   </a><br/>
 
 * Most released genre is Drama, followed by Comedy, then Thriller, followed by Action
-<br/>
+<br/><br/>
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/13.%20Dashboard_Takeaways_2.png"><img src="images/SQL/13. Dashboard_Takeaways_2.png">
   </a><br/><br/>
 
@@ -108,13 +109,14 @@ I presented the following takeaways to the Boss.
 * **Most expensive to produce** movies are mostly Blockbusters
 * Movies with the **highest ROI** seem to be Horror/Thriller films (eg. Saw, Insidious, The Devil Inside, etc.) AND Comedy (eg. Super Size Me, Keeping Mum, The Full Monty, etc.)
 * Paranormal Activitiy, and The Blair Witch Project being **outliers** with massive ROIs!
+<br/><br/>
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/14.%20Dashboard_Takeaways_3.png"><img src="images/SQL/14. Dashboard_Takeaways_3.png">
   </a><br/>
 
 * Most released franchise movie is the collection of, Harry Potter, followed by The Fast & Furious, Saw, and James Bond with similar number of movie releases
 * Movies with the highest engagement in terms of ratings is The Matrix, then Fight Club
 * The highest average rating of 4.5 - 5 is _deemed to be **not representative**_ due to the extrememly low number of raters
-<br/>
+<br/><br/>
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/15.%20Dashboard_Takeaways_4.png"><img src="images/SQL/15. Dashboard_Takeaways_4.png">
   </a><br/>
  
@@ -122,12 +124,12 @@ I showed the Boss how to work the Excel Interactive Dashboard by using the **sli
 * Released in Year 1999, 2002, 2005, 2015, 2016
 * In months of May and December
 * 3 releases in May, 2 releases in December
-<br/>
+<br/><br/>
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/16.%20Dashboard_Takeaways_5.png"><img src="images/SQL/16. Dashboard_Takeaways_5.png">
   </a><br/>
 
 The **Star Wars Collection** falls under the genres of Action, Adventure, Science, Fiction, Fantasy
-<br/>
+<br/><br/>
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/17.%20Dashboard_Takeaways_6.png"><img src="images/SQL/17. Dashboard_Takeaways_6.png">
   </a><br/>
 
@@ -135,7 +137,7 @@ The Dashboard would give him an efficient view of:
 * Each movie's Revenue, Budget, ROI
 * Which movie tops in terms of engagement by number of raters
 * corresponding rating per movie with number of raters
-<br/>
+<br/><br/>
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/18.%20Dashboard_Takeaways_7.png"><img src="images/SQL/18. Dashboard_Takeaways_7.png">
   </a><br/>
 
