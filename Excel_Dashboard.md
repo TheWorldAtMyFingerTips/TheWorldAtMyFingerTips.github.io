@@ -54,7 +54,8 @@ Finally, I thought about the theme of the Dashboard. My considerations include:
 ### Results
 And here is the final product - [Click here to download my Excel Interactive Dashboard.](files/U.S. Superstore (Retail).xlsx)
 
-<img src="images/Excel-Dashboard.gif?raw=true"/>
+<a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/excel/Excel-Dashboard.gif"><img src="images/Excel-Dashboard.gif?raw=true"/>
+  </a><br/>
 
 
 I presented this to the boss, from a standpoint of training him how to use it.
@@ -69,7 +70,8 @@ We were rated on the areas of communication, data, storytelling, and design (5 p
 <br/>
 **My score was a 19/20.**
 
-<img src="images/Capstone Project 1 - Scoring Rubrics.jpg"/>
+<a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/excel/Capstone%20Project%201%20-%20Scoring%20Rubrics.jpg"><img src="images/Capstone Project 1 - Scoring Rubrics.jpg"/>
+  </a>
 <br/>
 
 ### Contact Me
