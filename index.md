@@ -27,7 +27,7 @@ This project is based off the context that the boss wants to better understand I
 
 ---
 
-### SQL - The Movie Industry, An Overview
+### [SQL - The Movie Industry, An Overview](TheWorldAtMyFingerTips.github.io/sql.md)
 As like most things in life, there are a plethora of variables as to what makes a movie a "success". This project is based off the angle that my boss is looking towards going into the movie business and would like to get a overall sense of the movie industry.
 
 <img src="images/SQL/Sql Code.JPG">
