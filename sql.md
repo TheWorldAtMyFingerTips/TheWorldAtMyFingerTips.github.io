@@ -42,16 +42,15 @@ As Benjamin Franklin said,
 > "If you fail to plan, you are planning to fail."
 
 Likewise when dealing with databases, it is good practice (an essential, for me), to start off with planning.<br/><br/>
-I did this by doing up an ER-diagram:
+I did this by doing up an [ER-diagram](https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/1.%20ER-Diagram.JPG):
 
-##### [ER-Diagram](https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/1.%20ER-Diagram.JPG)
 <img src="images/SQL/1. ER-Diagram.JPG"><br/><br/>
 
 #### *Creating Database, Loading Data, Data Preparation*
-In the SQL Server, I created a new database named _MOVIES_, uploaded the files, used aggregate functions to check for duplicate rows and deleted the duplications in the files. <br/>
+In the SQL Server, I created a new database named _MOVIES_, uploaded the files, used aggregate functions to check for duplicate rows and deleted the duplications in the files. <br/><br/>
 
 #### *Data Analysis*
-Moving on to the Data Analysis part, as usual, I took a top-down approach in analysing the data as I like to have an overall feel of what the dataset is about before I drill down into the nitty gritties (which might overwhelm if I started off there).<br/><br/>
+Moving on to the Data Analysis part, as usual, I took a top-down approach in analysing the data as I like to have an overall feel of what the dataset is about before I drill down into the nitty gritties (which might overwhelm if I started off there).<br/>
 
 Then, I started drilling down to find out:
 * The spread of the dataset (number of movies released per year, per month
@@ -64,11 +63,14 @@ Then, I started drilling down to find out:
 <br/><br/>
 
 #### *Data Manipulation*
-And finally, create a data dump for the Excel Dashboard by creating views and joining all the relevant views and tables together.
+And finally, I created a data dump for the Excel Dashboard by creating views and joining all the relevant views and tables together.
 
 I imported the data dump into Excel, did the necessary pivot tables, visualizations, arranged them on the Dashboard, and did the slicers to enable interactions.
 
-<img src="images/SQL/Excel Dashboard_1.JPG">
+<a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/Excel%20Dashboard_1.JPG">
+  <img src="images/SQL/Excel Dashboard_1.JPG">
+</a>
+
 <img src="images/SQL/Excel Dashboard_2.JPG">
 <img src="images/SQL/Excel Dashboard_3.JPG">
 <img src="images/SQL/Excel Dashboard_4.JPG">
