@@ -71,13 +71,17 @@ I imported the data dump into Excel, did the necessary pivot tables, visualizati
   <img src="images/SQL/Excel Dashboard_1.JPG">
 </a>
 <br/>
-<aa href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/Excel%20Dashboard_2.JPG">
-<img src="images/SQL/Excel Dashboard_2.JPG"></a>
+
+<a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/Excel%20Dashboard_2.JPG">
+<img src="images/SQL/Excel Dashboard_2.JPG">
+</a>
 <br/>
+
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/Excel%20Dashboard_3.JPG">                                           
 <img src="images/SQL/Excel Dashboard_3.JPG">
   </a>
   <br/>
+  
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/Excel%20Dashboard_4.JPG">  
 <img src="images/SQL/Excel Dashboard_4.JPG">
   </a>
