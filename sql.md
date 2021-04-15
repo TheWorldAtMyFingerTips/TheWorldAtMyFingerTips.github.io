@@ -70,7 +70,7 @@ I imported the data dump into Excel, did the necessary pivot tables, visualizati
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/Excel%20Dashboard_1.JPG">
   <img src="images/SQL/Excel Dashboard_1.JPG">
 </a>
-<br/>
+<br/><br/>
 
 <a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/Excel%20Dashboard_2.JPG">
 <img src="images/SQL/Excel Dashboard_2.JPG">
@@ -91,15 +91,28 @@ I imported the data dump into Excel, did the necessary pivot tables, visualizati
 ### Dashboard Takeaways
 I presented the following takeaways to the Boss.
 
-<img src="images/SQL/12. Dashboard_Takeaways_1.png">
-<img src="images/SQL/13. Dashboard_Takeaways_2.png">
-<img src="images/SQL/14. Dashboard_Takeaways_3.png">
-<img src="images/SQL/15. Dashboard_Takeaways_4.png">
-<img src="images/SQL/16. Dashboard_Takeaways_5.png">
-<img src="images/SQL/17. Dashboard_Takeaways_6.png">
-<img src="images/SQL/18. Dashboard_Takeaways_7.png">
+<a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/12.%20Dashboard_Takeaways_1.png"><img src="images/SQL/12. Dashboard_Takeaways_1.png">
+  </a><br/>
+  
+<a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/13.%20Dashboard_Takeaways_2.png"><img src="images/SQL/13. Dashboard_Takeaways_2.png">
+  </a><br/>
+  
+<a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/14.%20Dashboard_Takeaways_3.png"><img src="images/SQL/14. Dashboard_Takeaways_3.png">
+  </a><br/>
+  
+<a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/15.%20Dashboard_Takeaways_4.png"><img src="images/SQL/15. Dashboard_Takeaways_4.png">
+  </a><br/>
+  
+<a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/16.%20Dashboard_Takeaways_5.png"><img src="images/SQL/16. Dashboard_Takeaways_5.png">
+  </a><br/>
+  
+<a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/17.%20Dashboard_Takeaways_6.png"><img src="images/SQL/17. Dashboard_Takeaways_6.png">
+  </a><br/>
+  
+<a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/SQL/18.%20Dashboard_Takeaways_7.png"><img src="images/SQL/18. Dashboard_Takeaways_7.png">
+  </a><br/>
 
-With my final suggestion to start off with a high return on investment movie (Horror/Thriller genre)...<br/>
+With my final suggestion to start off with a high return on investment movie (Horror/Thriller genre)...<br/><br/>
 The Boss is very pleased.<br/>
 I **aced** the project.<br/>
 I am pleased.<br/>
