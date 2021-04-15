@@ -5,10 +5,12 @@ Python was the final *language* in the curriculum. We had started off with the b
 <br/><br/>
 
 # Capstone Project 4: Build Machine Learning Models for the Instagram Top Post
-[Click here to download my PowerPoint Presentation](files/python/2021.03.05 - CAPSTONE PROJECT 4 PRESENTATION.pptx)<br/>
+[Click here to download my PowerPoint Presentation Show](files/python/2021.03.05 - CAPSTONE PROJECT 4 PRESENTATION.pptx)<br/>
 [Click here to download my Jupyter Notebook Code](files/python/Instagram Top Post.ipynb)
 <br/>
 
+<img src="images/python/Powerpoint Cover.JPG">
+<br/>
 ### Abstract
 In today's society, smartphones have become ubiquitious and an essential tool for most of us. Especially with the lockdown of COVID-19, humans have increasingly turned to social media platforms to get their daily fixes of interaction. Instagram is one of the most-used social platforms today, with a concept built around image and video sharing. While the app started off based on personal interactions, it has now evolved to encompass business-to-consumer interactions, making the landscape increasingly competitive and thus, imperative to capture customers' attention by having their content as one of the top posts.
 
@@ -78,7 +80,8 @@ He was pleased.<br/>
 I am more than pleased.<br/>
 <br/><br/>
 
-<img src="images/python/Capstone Project 4 - Scoring Rubrics.jpg">
+<a href="https://github.com/TheWorldAtMyFingerTips/TheWorldAtMyFingerTips.github.io/blob/master/images/python/Capstone%20Project%204%20-%20Scoring%20Rubrics.jpg"><img src="images/python/Capstone Project 4 - Scoring Rubrics.jpg">
+  </a>
 <br/>
 
 ### Contact me
